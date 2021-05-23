@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Furkan The Human</title>
+    <link>http://furkanthehuman.github.com/posts/</link>
+    <description>Recent content in Posts on Furkan The Human</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 18:51:13 +0300</lastBuildDate><atom:link href="http://furkanthehuman.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://furkanthehuman.github.com/posts/first-post/</link>
+      <pubDate>Sun, 23 May 2021 18:51:13 +0300</pubDate>
+      
+      <guid>http://furkanthehuman.github.com/posts/first-post/</guid>
+      <description>Hello world</description>
+    </item>
+    
+  </channel>
+</rss>
