@@ -1,0 +1,4 @@
+baseURL = "http://furkanthehuman.github.com/"
+languageCode = "en-us"
+title = "Furkan The Human"
+theme = "cupper-hugo-theme"
